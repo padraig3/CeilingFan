@@ -1,5 +1,9 @@
 # CeilingFan
 
+Prerequisites
+
+    JDK 8
+
 Implementation can be found here:
 
     src/main/java/org/ptrainor/CeilingFan.java
